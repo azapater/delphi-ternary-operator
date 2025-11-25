@@ -1,6 +1,6 @@
-# Delphi Ternary Operator Demo
+# Delphi Ternary Conditional Operator Demo
 
-A console application demonstrating the new ternary operator (if-then-else expression) introduced in Delphi, highlighting its differences from `ifThen` and showcasing its capabilities.
+A console application demonstrating the new ternary conditional operator (if-then-else expression) introduced in Delphi 13 Florence, highlighting its differences from `ifThen` and showcasing its capabilities.
 
 ## Overview
 
@@ -24,9 +24,11 @@ This demo includes 8 examples that illustrate:
 
 ## Requirements
 
-- Delphi 13 or later (supports the ternary operator)
+- Delphi 13 or later (supports the ternary conditional operator)
 
 ## Usage
 
-Compile and run the console application to see all demos in action.
+Compile and run the console application to see all demos in action. 
+
+Compatible with Windows and Linux
 
